@@ -9,7 +9,7 @@ Obrigado por querer colaborar! Este projeto está em fase inicial e toda contrib
 
 ### 1. Clone o repositório
 
-git clone https://github.com/JonathansmDev/study-planner.git  
+git clone https://github.com/JonathansmDev/StudyPlanner.git  
 cd study-planner
 
 ### 2. Instale as dependências
